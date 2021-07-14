@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": ".",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"html.format.wrapAttributes": "force-expand-multiline",
+		"vetur.format.options.tabSize": 2,
+		"pasteImage.path": "${currentFileDir}\\README\\img"
+	},
+	"extensions": {
+		"recommendations": [
+			"oderwat.indent-rainbow",
+			"msjsdiag.debugger-for-chrome",
+			"dbaeumer.vscode-eslint",
+			"mkaufman.htmlhint",
+			"octref.vetur",
+			"yzane.markdown-pdf",
+			"bierner.markdown-mermaid",
+			"yzhang.markdown-all-in-one",
+			"mushan.vscode-paste-image",
+			"ms-vscode.vscode-typescript-tslint-plugin",
+		]
+	}
+}
