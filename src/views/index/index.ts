@@ -16,7 +16,7 @@ import RegistErrorRegistered from "@/components/RegistErrorRegistered/RegistErro
 export default class extends BaseVue {
   public date: string = "";
   public dateS: Date = new Date();
-  public dateE: Date = new Date(2021, 8, 1);
+  public dateE: Date = new Date(2022, 2, 1);
   public exampleSelect: number = 1;
   public mailaddress: string = "";
   public mailaddressDisable: boolean = false;
