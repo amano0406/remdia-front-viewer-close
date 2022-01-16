@@ -3,13 +3,24 @@
 		{
 			"name": ".",
 			"path": "."
+		},
+		{
+			"name": "views",
+			"path": "./src/views"
+		},
+		{
+			"name": "components",
+			"path": "./src/components"
+		},
+		{
+			"name": "assets",
+			"path": "./src/assets"
 		}
 	],
 	"settings": {
 		"editor.tabSize": 2,
 		"html.format.wrapAttributes": "force-expand-multiline",
 		"vetur.format.options.tabSize": 2,
-		"pasteImage.path": "${currentFileDir}\\README\\img"
 	},
 	"extensions": {
 		"recommendations": [
@@ -18,11 +29,13 @@
 			"dbaeumer.vscode-eslint",
 			"mkaufman.htmlhint",
 			"octref.vetur",
-			"yzane.markdown-pdf",
-			"bierner.markdown-mermaid",
-			"yzhang.markdown-all-in-one",
-			"mushan.vscode-paste-image",
 			"ms-vscode.vscode-typescript-tslint-plugin",
+			"coenraads.bracket-pair-colorizer-2",
+			"formulahendry.auto-rename-tag",
+			"formulahendry.auto-close-tag",
+			"esbenp.prettier-vscode",
+			"christian-kohler.path-intellisense",
+			"pkief.material-icon-theme",
 		]
 	}
 }
